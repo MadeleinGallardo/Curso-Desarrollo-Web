@@ -1,0 +1,198 @@
+#contenedor {
+	
+	height: auto;
+	background-color: rgba(239, 184, 15, 0.5);
+}
+
+
+
+
+
+#contenido_roda { 
+height: auto;
+background-color: rgba(239, 184, 15, 0.4);
+margin-top: 10px;
+ }
+
+#carrusel {
+	
+}
+
+#roda {
+	
+}
+#invitados {
+	
+}
+
+#nombreinvitados {
+	
+}
+#pie {
+	
+  margin: auto;
+}
+#pie_roda {
+	height: auto;
+	background-color: rgba(239, 184, 15, 0.5);
+
+}
+
+#menu_roda {
+	height: auto;
+	float: left;
+	transform: rotate(345deg);
+	padding-top: 65px;
+	background-color: rgba(239, 184, 15, 0.1) !important;
+	
+	
+
+}
+ ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+
+}
+#menu_roda li {
+	display: inline;
+
+}
+ #menu_roda li  a {
+ 	display: inline-block;
+	width: 150px;
+	height: 50px;
+	
+	margin-bottom: 20px;
+	color: #000000;
+	text-decoration: none;
+	text-align: center;
+	line-height: 50px;
+	font-weight: bold;
+	border: thin;
+	
+	-webkit-box-shadow: 0px 0px 30px #ffff00;
+	
+ }
+#redes_roda {
+	height: auto;
+}
+#redes_roda li {
+	display: inline;
+}
+#redes_roda li a {
+	display: inline-block;
+	width: 115px;
+	height: 50px;
+	
+	margin-bottom: 20px;
+	color: #000000;
+	text-decoration: none;
+	text-align: center;
+	line-height: 50px;
+	font-weight: bold;
+	border: thin;
+	
+	
+    -webkit-box-shadow: 0px 0px 30px #ffff00;
+
+}
+#logo_roda {
+	height: auto;
+
+}
+#logo_roda img {
+	width: 100%;
+	
+	transform: rotate(360deg);
+
+}
+
+input {
+	margin-top: 5px;
+	width: 400px !important;
+	line-height: 50px;
+	font-weight: bold;
+	border: thin;
+	
+	
+    -webkit-box-shadow: 0px 0px 30px #ffff00;
+}
+
+textarea {
+	margin-top: 5px;
+	width: 400px !important;
+	line-height: 50px;
+	font-weight: bold;
+	border: thin;
+	
+	
+    -webkit-box-shadow: 0px 0px 30px #ffff00;
+}
+
+.enviar {
+	width: 200px !important;
+	line-height: 50px;
+	font-weight: bold;
+	border: thin;
+	
+	
+    -webkit-box-shadow: 0px 0px 30px #ffff00;
+}
+
+body { 
+font-family: Times New Roman;
+background-image: url(../imagen/brillo.jpg);
+font-style: italic;
+font-size: x-large;
+
+
+     }
+
+ @font-face {
+ 	font-family: 'aykapotz';
+ 	src: url('../AykaPoTz.ttf')
+ }
+ h3 {
+ 	text-align: center;
+ 	color: #ffffff;
+ }
+ h3 a {
+ 	text-align: center;
+ 	color: #ffffff;
+ 	text-decoration: none;
+ }
+ h2 {
+ 	text-align: center;
+ 	font-family: 'aykapotz';
+
+
+ 	}
+
+ p {
+	text-align: left;
+	margin-left: 10px;
+	margin-right: 10px;
+	color: #000000;
+}
+
+.titulo{
+	height: 50px;
+	width: 100%;
+	
+
+	
+	background-color: #FFF007;
+	background-image: url(../imagen/fondo.jpg);
+	
+	
+}
+
+#primercarru, {
+	margin: auto;
+	margin-top: 5px;
+
+}
+img {
+	-webkit-border-radius:20px;
+}
