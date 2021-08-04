@@ -1,0 +1,991 @@
+body { 
+font-family: Times New Roman;
+background-image: url(imagen/brillo.jpg);
+font-style: italic;
+font-size: x-large;
+
+     }
+
+ @font-face {
+ 	font-family: 'aykapotz';
+ 	src: url('AykaPoTz.ttf')
+ }
+ h3 {
+ 	text-align: center;
+ 	color: #ffffff;
+ }
+ h3 a {
+ 	text-align: center;
+ 	color: #ffffff;
+ 	text-decoration: none;
+ }
+ h2 {
+ 	text-align: center;
+ 	font-family: 'aykapotz';
+
+
+ 	}
+
+header, section, footer {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+header {
+
+	height: 400px;
+	
+	margin-bottom: 5px;
+	/*background-image: url(imagen/fondo.jpg);*/
+	background-color: #efb810;
+	background-color: rgba(239, 184, 15, 0.5);
+
+
+	
+
+}
+#botonera {
+	width:  700px;
+	height: 100px;
+	float: left;
+	transform: rotate(345deg);
+	padding-top: 65px;
+	
+	
+
+}
+ ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+
+}
+#botonera li {
+	display: inline;
+
+}
+ #botonera li  a {
+ 	display: inline-block;
+	width: 150px;
+	height: 50px;
+	
+	margin-bottom: 20px;
+	color: #000000;
+	text-decoration: none;
+	text-align: center;
+	line-height: 50px;
+	font-weight: bold;
+	border: thin;
+	/*-webkit-border-radius:20px;*/
+
+	/*background-image: url(imagen/brillo.jpg);*/
+	-webkit-box-shadow: 0px 0px 30px #ffff00;
+	/*-webkit-border-image: url("imagen/brillo.jpg") 1 1 1 1 round round;*/
+ }
+#redes {
+	width: 260px;
+	height: 100px;
+	
+	float: right;
+}
+#redes li {
+	display: inline;
+}
+#redes li a {
+	display: inline-block;
+	width: 115px;
+	height: 50px;
+	
+	margin-bottom: 20px;
+	color: #000000;
+	text-decoration: none;
+	text-align: center;
+	line-height: 50px;
+	font-weight: bold;
+	border: thin;
+	
+	
+    -webkit-box-shadow: 0px 0px 30px #ffff00;
+
+}
+#cheiro {
+	height: 200px;
+	width:  800px;
+	
+
+}
+#cheiro img {
+	width: 100%;
+	
+	transform: rotate(360deg);
+
+}
+#gifcheiro img {
+	width: 100%;
+	-webkit-border-radius:20px;
+
+}
+
+
+#quienessomos {
+
+	height:  600px;
+	
+
+
+}
+h1 {
+	color: #ffffff;
+	text-align: center;
+
+}
+p {
+	text-align: left;
+	margin-left: 10px;
+	margin-right: 10px;
+	color: #000000;
+}
+ #gifcheiro {
+ 	height: 500px;
+ 	width: 500px;
+ 	
+ 	margin-left: 40px;
+ 	margin-right: 20px;
+
+ }
+  #introduccion {
+  	height: 500px;
+  	width: 350px;
+  	
+  	float: right;
+  	margin-right: 40px;
+  	
+  	background-color: rgba(239, 184, 15, 0.6);
+  }
+
+#enaccion {
+	height: 800px;
+
+	
+}
+#video1, #video3   {
+	height: 350px;
+	width: 560px;
+}
+
+#descripcion2, #descripcion4 {
+	height: 350px;
+	width: 395px;
+	background-color: rgba(239, 184, 15, 0.5);
+}
+#video1 {
+	
+	float: left;
+	
+
+}
+
+
+
+#descripcion2 {
+	float: left;
+
+}
+
+#video3 {
+	
+	float: right;
+}
+
+
+#descripcion4 {
+	
+	float: left;
+}
+#integrantes {
+	height: 4240px;
+	background-color: rgba(239, 184, 15, 0.4);
+	
+}
+#desluchi, #desagus, #desmade, #desmimi, #desmay, #desrocio, #desdani, #desnahir, #desari, #dessofi, #despau, #desviky, #desvero p {
+	font-size: 22px;
+	}
+
+#luchi, #agus, #made, #mimi, #may, #rocio, #dani, #nahir, #ari, #sofi, #pau, #viky, #vero {
+	height: 320px;
+	width: 320px;
+}
+#desluchi, #desagus, #desmade, #desmimi, #desmay, #desrocio, #desdani, #desnahir, #desari, #dessofi, #despau, #desviky, #desvero {
+	height: 320px;
+	width: 320px;
+	background-color: rgba(239, 184, 15, 0.4);
+}
+.titulo{
+	height: 50px;
+	
+
+	
+	background-color: #FFF007;
+	background-image: url(imagen/fondo.jpg);
+	
+	
+}
+#luchi{
+	
+}
+#desluchi {
+   
+    float: right;
+    margin-right: 320px;
+
+}
+#desagus {
+	
+    float: right;
+}
+#agus {
+	
+	margin-left: 320px;
+
+}
+ img {
+	height: 100%;
+	-webkit-border-radius:20px;
+}
+
+#made {
+
+	margin-left: 640px;
+}
+#desmade {
+	
+    float: left;
+    margin-left: 320px;
+}
+
+#may {
+	
+	margin-left: 320px;
+}
+
+#desmay {
+	
+    float: left;
+	
+}
+#mimi {
+	
+}
+
+#desmimi {
+	
+    float: right;
+    margin-right:  320px;
+}
+
+#vero {
+	
+	margin-left: 320px;
+}
+#desvero {
+	
+    float: right;
+}
+#viky {
+	
+	margin-left: 640px;
+
+}
+#desviky {
+	
+    float: left;
+    margin-left: 320px;
+
+}
+#sofi {
+	
+	margin-left: 320px;
+
+}
+
+#dessofi {
+	
+    float: left;
+}
+#nahir {
+    
+}
+#desnahir {
+	 
+    float: right;
+    margin-right: 320px;
+
+}
+#pau {
+	
+    float: right;
+
+}
+#despau {
+	 
+    float: right;
+
+}
+#dani {
+	
+	margin-left: 640px;
+	clear: right;
+}
+#desdani {
+	
+    float: left;
+    margin-left: 320px;
+}
+
+#rocio {
+    
+	margin-left: 320px;
+}
+#desrocio{
+	
+    float: left;
+
+}
+#ari {
+	
+}
+#desari {
+	
+    float: right;
+    margin-right: 320px;
+}
+#contac {
+	text-align: center;
+	background-color: #FFF007;
+	background-image: url(imagen/fondo.jpg);
+}
+
+#contacto {
+	height: 750px;
+	
+	margin-bottom: 5px;
+	background-color: rgba(239, 184, 15, 0.5);
+}
+#contrataciones {
+	height:  650px;
+	width: 400px;
+	
+	float: right;
+	background-color: rgba(239, 184, 15, 0.5);
+}
+#imagencontacto {
+	height:  600px;
+	width: 400px;
+	
+	float: left;
+}
+#contrataciones h3 a {
+	text-decoration: none;
+	color: #ffffff;
+	font-family: 'aykapotz';
+	text-align: center;
+	font-size: xx-large;
+	line-height: 50px;
+	
+	border: thin;
+    -webkit-box-shadow: 0px 0px 30px #ffff00;
+}
+
+footer {
+	height: 500px;
+	background-color: rgba(239, 184, 15, 0.5);
+	}
+#autora {
+	background-color: #efb810;
+	background-color: rgba(239, 184, 15, 0.5);
+	width: 400px;
+	height: 400px;
+	margin-left: 250px;
+}
+
+#roda {
+	text-decoration: none;
+	color: #ffffff;
+	font-family: 'aykapotz';
+	text-align: center;
+	font-size: xx-large;
+	line-height: 50px;
+	
+	border: thin;
+    -webkit-box-shadow: 0px 0px 30px #ffff00;
+}
+
+@media all and (min-width: 600px) and (max-width: 1023px) {
+
+	
+
+
+
+header, section, footer {
+	width: 580px;
+	
+}
+
+header {
+
+	height: 550px;
+	
+	
+
+       }
+
+#botonera {
+	width:  580px;
+	
+	
+
+          }
+
+ #botonera li  a {
+ 
+	width: 140px;
+	
+	font-size: large;
+
+                 }
+
+
+#redes li a {
+
+	
+	margin: auto;
+
+	font-size: large;
+	
+  
+            }
+#cheiro {
+
+	width:  580px;	
+
+        }
+
+#gifcheiro img {
+	width: 100%;
+	-webkit-border-radius:20px;
+
+               }
+
+
+#quienessomos {
+
+	height:  550px;
+
+}
+
+
+ #gifcheiro {
+ 	height: 500px;
+ 	width: 230px;
+ 	
+ 	margin-left: 0px;
+ 	margin-right: 10px;
+
+            }
+  #introduccion {
+  	height: 500px;
+  	width: 340px;
+  	
+  	
+  	margin-right: 0px;
+  	
+  	
+                }
+
+#enaccion {
+	height: 1080px;
+
+	
+}
+#video1, #video3   {
+	height: 350px;
+	width: 560px;
+}
+
+#descripcion2, #descripcion4 {
+	height: 350px;
+	width: 290px;
+	
+                             }
+
+#integrantes {
+	height: 2755px;
+	
+	
+}
+#desluchi, #desagus, #desmade, #desmimi, #desmay, #desrocio, #desdani, #desnahir, #desari, #dessofi, #despau, #desviky, #desvero p {
+	font-size: 16px;
+	}
+
+#luchi, #agus, #made, #mimi, #may, #rocio, #dani, #nahir, #ari, #sofi, #pau, #viky, #vero {
+	height: 210px;
+	width: 190px;
+}
+#desluchi, #desagus, #desmade, #desmimi, #desmay, #desrocio, #desdani, #desnahir, #desari, #dessofi, #despau, #desviky, #desvero {
+	height: 210px;
+	width: 190px;
+	
+}
+
+
+#desluchi {
+   
+    
+    margin-right: 190px;
+
+}
+
+#agus {
+	
+	margin-left: 190px;
+
+}
+ 
+
+#made {
+
+	margin-left: 380px;
+}
+#desmade {
+	
+    
+    margin-left: 190px;
+}
+
+#may {
+	
+	margin-left: 190px;
+}
+
+
+
+#desmimi {
+	
+   
+    margin-right:  190px;
+}
+
+#vero {
+	
+	margin-left: 190px;
+}
+
+#viky {
+	
+	margin-left: 380px;
+
+}
+#desviky {
+	
+   
+    margin-left: 190px;
+
+}
+#sofi {
+	
+	margin-left: 190px;
+
+}
+
+
+
+#desnahir {
+	 
+    
+    margin-right: 190px;
+
+}
+
+
+#dani {
+	
+	margin-left: 380px;
+	
+}
+#desdani {
+	
+    margin-left: 190px;
+}
+
+#rocio {
+    
+	margin-left: 190px;
+}
+
+#desari {
+	
+    
+    margin-right: 190px;
+}
+
+
+#contacto {
+	height: 850px;
+	
+	
+}
+#contrataciones {
+	height:  750px;
+	width: 280px;
+	
+	
+}
+#contrataciones p {
+	font-size: 20px;
+}
+#imagencontacto {
+	height:  600px;
+	width: 280px;
+	
+	float: left;
+}
+#fotosexy {
+	width: 100%;
+}
+
+
+#autora {
+
+	margin: auto;
+}
+
+
+
+
+
+
+
+
+
+	} /* fin media 1 */
+
+
+
+@media all and (max-width: 599px) {
+
+
+
+	body { 
+
+       font-size: large;
+
+     }
+     
+
+
+ 
+
+header, section, footer {
+	width: 90%;
+	
+   }
+
+header {
+
+	height: auto;
+	
+	margin-bottom: 5px;
+	}
+
+
+#botonera {
+	width:  100%;
+	height: auto;
+	float: none;
+	transform: rotate(0deg);
+	padding-top: 65px;
+	
+	}
+ 
+#botonera li {
+	display: block;
+
+}
+
+#redes {
+	width: 260px;
+	height: 100px;
+	
+	float: right;
+}
+
+#cheiro {
+	height: auto;
+	width:  100%;
+	
+
+}
+#cheiro img {
+	width: 100%;
+	
+	transform: rotate(360deg);
+
+             }
+
+#gifcheiro img {
+	width: 100%;
+	-webkit-border-radius:20px;
+
+}
+
+
+#quienessomos {
+
+	height:  auto;
+	           }
+
+
+ #gifcheiro {
+ 	height: auto;
+ 	width: 100%;
+ 	
+ 	margin-left: 0px;
+ 	margin-right: 0px;
+
+ }
+  #introduccion {
+  	height: auto;
+  	width: 100%;
+  	
+  	float: none;
+  	
+  }
+
+#enaccion {
+	height: auto;
+          }
+
+
+#video1, #video3   {
+	height: auto;
+	width: 100%;
+}
+
+#descripcion2, #descripcion4 {
+	height: auto;
+	width: 100%;
+	
+}
+#video1 {
+	
+	float: none;
+	
+
+}
+
+
+
+#descripcion2 {
+	float: none;
+
+}
+
+#video3 {
+	
+	float: none;
+}
+
+
+#descripcion4 {
+	
+	float: none;
+}
+#integrantes {
+	height: auto;
+	
+	
+}
+#desluchi, #desagus, #desmade, #desmimi, #desmay, #desrocio, #desdani, #desnahir, #desari, #dessofi, #despau, #desviky, #desvero p {
+	font-size: 22px;
+	}
+
+#luchi, #agus, #made, #mimi, #may, #rocio, #dani, #nahir, #ari, #sofi, #pau, #viky, #vero {
+	height: 320px;
+	width: 320px;
+	margin: auto;
+}
+#desluchi, #desagus, #desmade, #desmimi, #desmay, #desrocio, #desdani, #desnahir, #desari, #dessofi, #despau, #desviky, #desvero {
+	height: auto;
+	width: 100%;
+	
+}
+
+#luchi{
+	
+}
+#desluchi {
+   
+    float: none;
+    margin-right: 0px;
+
+}
+#desagus {
+	
+    float: none;
+}
+#agus {
+	
+	margin-left: 0px;
+
+}
+ img {
+ 	width: 100%
+	height: auto;
+	
+}
+
+#made {
+
+	margin-left: 0px;
+}
+#desmade {
+	
+    float: none;
+    margin-left: 0px;
+}
+
+#may {
+	
+	margin-left: 0px;
+}
+
+#desmay {
+	
+    float: none;
+	
+}
+#mimi {
+	
+}
+
+#desmimi {
+	
+    float: none;
+    margin-right:  0px;
+}
+
+#vero {
+	
+	margin-left: 0px;
+}
+#desvero {
+	
+    float: none;
+}
+#viky {
+	
+	margin-left: 0px;
+
+}
+#desviky {
+	
+    float: none;
+    margin-left: 0px;
+
+}
+#sofi {
+	
+	margin-left: 0px;
+
+}
+
+#dessofi {
+	
+    float: none;
+}
+#nahir {
+    
+}
+#desnahir {
+	 
+    float: none;
+    margin-right: 0px;
+
+}
+#pau {
+	
+    float: none;
+
+}
+#despau {
+	 
+    float: none;
+
+}
+#dani {
+	
+	margin-left: 0px;
+	clear: right;
+}
+#desdani {
+	
+    float: none;
+    margin-left: 0px;
+}
+
+#rocio {
+    
+	margin-left: 0px;
+}
+#desrocio{
+	
+    float: none;
+
+}
+#ari {
+	
+}
+#desari {
+	
+    float: none;
+    margin-right: 0px;
+}
+
+
+#contacto {
+	height: auto;
+	
+	
+}
+#contrataciones {
+	height:  auto;
+	width: 100%;
+	
+	float: none;
+	
+	
+}
+#imagencontacto {
+	height:  350px;
+	width: 350px;
+	
+	float: none;
+	margin: auto;
+}
+
+
+footer {
+	height: auto;
+	
+	}
+#autora {
+	
+	width: 100%;
+	height: auto;
+	margin-left: 0px;
+}
+
+
+
+	} /* fin media 2 */
